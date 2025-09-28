@@ -1,6 +1,6 @@
 ## It's Wasabeam👋
 
-**"Builting Things Barely Work (Maybe Programmer, Cybersecurity Student, Full-time Googler)"** <br/>
+**"Building Things Barely Work (Noob Programmer, Cybersecurity Student, Full-time Googler)"** <br/>
 > "95% debugging, 5% panic. Still pushing to main with confidence."
 
 ## Skills, Tech-Stack
