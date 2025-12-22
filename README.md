@@ -4,10 +4,10 @@
 > "95% debugging, 5% panic. Still pushing to main with confidence."
 
 ## Skills, Tech-Stack
-🐍 python, Django, Pandas, Tkinter, Flask <br/>
-🎨 Javascript, React, Vue, <br/>
-👾 HTML, CSS, Bootstrap <br/>
-👨‍💻 Network, Linux <br/>
+🐍 python, Django, Pandas, Tkinter, Flask<br/>
+🎨 Javascript, Typescript, React, Vue, Next, GraphQL<br/>
+👾 HTML, CSS, Bootstrap, TailwindCss, DaisyUI, Shadcn <br/>
+👨‍💻 Network, Linux, Bash, Wireshark, AutoPsy, Splunk<br/> 
 
 ## Languages and Tools
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -20,6 +20,4 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
-
-# 
 
